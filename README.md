@@ -1,3 +1,3 @@
 # software-techology
 I AM THANASIS
-Ενα προγραμμα που θα βοηθαει στην καθημερινη ζωη ειναι ενας "Οργανωτης καθημερινων καθηκοντων" για τη διαχειριση του χρονου και των εργασιων
+a program that helps in daily life is a "Daily Task Organizer"for managing time and tasks
